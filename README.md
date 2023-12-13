@@ -1,4 +1,4 @@
-##AI Image Detection Model using OpenCV and ImageAI
+## AI Image Detection Model using OpenCV and ImageAI
 
 Welcome to my Pi's and Python Class Final Project! In this repository we present an exciting exploration into the realm of computer vision through the implementation of an AI Image Detection Model using OpenCV and ImageAI. This project leverages the power of OpenCV a popular open-source computer vision library to develop a robust system capable of detecting and analyzing objects within images along with the power of ImageAI to come together to make a powerful and capable Image Detection Program.
 
